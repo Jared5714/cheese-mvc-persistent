@@ -6,9 +6,6 @@ import javax.validation.constraints.Size;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by kevinstock on 4/6/17.
- */
 @Entity
 public class Category {
 
